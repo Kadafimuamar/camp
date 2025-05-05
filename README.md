@@ -1,0 +1,6 @@
+env
+
+PRIVATE_KEY=
+WALLET_ADDRESS=
+RPC_URL="https://rpc.basecamp.t.raas.gelato.cloud"
+CONTRACT_ADDRESS="0xb6784a8cE82C898a48e79dF3E1EfC349a63672e7"
